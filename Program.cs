@@ -10,7 +10,7 @@ namespace PokemonBattleL
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("l");
         }
     }
 }
